@@ -9,5 +9,5 @@ i am creating this github repository as part of a school class.
 
 ***goals for this class***: be able to have enough understanding to take the AP CSP exam, either this year or a year in the future
 
-klee
+picture of klee from genshin impact
 ![klee](https://www.pcgamesn.com/wp-content/uploads/2020/10/genshin-impact-sparkling-steps-start-time-klee.jpg)
