@@ -1,5 +1,5 @@
-**hi, i'm alan!**
-i am creating this github repository as part of a school class. 
+#**hi, i'm alan!**
+##i am creating this github repository as part of a school class. 
 
 ***previous coding experience***: JAVA, python, scratch, unity, and BASIC.
 
