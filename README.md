@@ -9,7 +9,7 @@
 
 ***goals for this class***: be able to have enough understanding to take the AP CSP exam, either this year or a year in the future
 
-*fun fact: the messaging app discord actually supports markdown in text chat.*
+*fun fact: the messaging app discord actually supports markdown in text chat.* [example here](https://i.imgur.com/eJhXl0L.png)
 
 [rickroll yourself here!](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
