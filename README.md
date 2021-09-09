@@ -9,5 +9,4 @@
 
 ***goals for this class***: be able to have enough understanding to take the AP CSP exam, either this year or a year in the future
 
-picture of klee from genshin impact
-![klee](https://www.pcgamesn.com/wp-content/uploads/2020/10/genshin-impact-sparkling-steps-start-time-klee.jpg)
+!(https://www.animedhfa.com/wp-content/uploads/2020/07/Untitled-design-66-1.jpg)
