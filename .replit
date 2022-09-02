@@ -1,2 +1,2 @@
 language = "python3"
-run = "python 2048.py"
+run = "python brick.py"
